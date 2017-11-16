@@ -34,6 +34,9 @@ git reset .
 : コミット (スペースをタイトルに使う場合は " で囲むこと)
 git commit -m "コミットタイトルメッセージ"
 
+: コミット内容を修正したいとき
+git commit --amend -m "cssを修正"
+
 : 履歴を確認
 git log
 
