@@ -1,29 +1,31 @@
-#設定
-: インストール確認
+# 設定
+インストール確認
 get --version
 
-: ユーザー名とメールアドレス設定
-git config --global user.name "UserName"
-git config --global user.email "UserEmail"
+ユーザー名とメールアドレス設定
+* git config --global user.name "UserName"
+* git config --global user.email "UserEmail"
 
-: ユーザー名とメールアドレスの確認
-git var GIT_COMMITTE
-R_IDENT
-git var GIT_AUTHOR_IDENT
+ユーザー名とメールアドレスの確認
+* git var GIT_COMMITTER_IDENT
+* git var GIT_AUTHOR_IDENT
 
-: 問題対処。git status コマンドで日本語ファイル名が化ける
+問題対処。
+git status コマンドで日本語ファイル名が化ける
 git config --global core.quotepath false
 
-: 全設定の確認
-git config -l
+全設定の確認
+* git config -l
 
 
-#基本操作
+# 基本操作
 : カレントディレクトリを git 管理開始
 git init
 
 : ステージングに追加 (.gitignore を除くカレント以下すべて対象)
 git add .
+* まとめてadd -- git add -A
+
 
 : 状態確認
 git status
@@ -56,7 +58,7 @@ git remote rename <remotename <newname>
 git push <remotename> master
 
 
-#ブランチ操作
+# ブランチ操作
 : ブランチ一覧
 git branch
 
