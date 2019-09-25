@@ -7,6 +7,9 @@ and memo
 
 1. 技術書関連
 * LINE BOT×GAS
+* 技術の闇鍋
+* 株とpython
+* 実践Terraform AWSにおけるシステム設計とベストプラクティス
 
 ２．画像処理
 画像処理100本ノック
