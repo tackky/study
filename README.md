@@ -1,9 +1,9 @@
-# for my study
+## for my research
 
 and memo
 
-## やりたいタスク(研究とは別)
-トラッキング以外で身につけたいと考えているタスクリスト．
+## other ability
+トラッキング以外で身につけたいと考えている技術．
 
 1. 技術書関連
 * LINE BOT×GAS　済
@@ -14,10 +14,14 @@ and memo
 ２．画像処理
 画像処理100本ノック　経過中
 
-３．自宅サーバー
+３．list of top algorithms used in Computer Science  
+コンピュータサイエンスにおける32の重要なアルゴリズムの解説制作  
+[List of Top Algorithms used in Computer Science](http://www.ptidej.net/link/programming/topalgorithms)
 
 ４．スライドのgit管理
 
 ５．論文のgit管理
-  卒論up(private)済
-  INCoS2019(private)
+  卒論up(private)済  
+  INCoS2019(private)済  
+  INCoS2018(private)
+  
