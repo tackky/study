@@ -23,5 +23,8 @@ and memo
 ５．論文のgit管理
   卒論up(private)済  
   INCoS2019(private)済  
-  INCoS2018(private)
+  INCoS2018(private)済
   
+６．portfolioの作成
+https://tackky.github.io/portfolio/
+随時アップデート．
